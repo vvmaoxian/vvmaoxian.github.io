@@ -1,3 +1,5 @@
 .*
 !.gitignore
-themes/
+/themes
+/node_modules
+
